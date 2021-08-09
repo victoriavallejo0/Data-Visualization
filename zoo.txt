@@ -1,1 +1,15 @@
 visual encondings
+protovis
+stem a leaf plot
+Q-Q plot
+scatter plot matrix
+Brushing and linking in
+Dorling cartogram
+dendrogram
+enclosure diagram
+Space-filling adjacency diagram
+Icicle layout
+tacked Graphs
+Node-link diagrams
+Squarified treemaps
+seriation
