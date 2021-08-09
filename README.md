@@ -9,3 +9,4 @@ https://victoriavallejo0.github.io/infovis/index.html
 https://victoriavallejo0.github.io/infovis/zoo.txt
 
 # BIKE ACCIDENTS - LONDON
+https://victoriavallejo0.github.io/infovis/bikeacc.html
