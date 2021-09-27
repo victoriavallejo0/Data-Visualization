@@ -10,3 +10,6 @@ https://victoriavallejo0.github.io/infovis/zoo.txt
 
 # BIKE ACCIDENTS - LONDON
 https://victoriavallejo0.github.io/infovis/bikeacc.html
+
+# DATOS PERSONALES
+https://victoriavallejo0.github.io/infovis/datospersonales.html
