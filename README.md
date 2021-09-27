@@ -11,5 +11,5 @@ La recolección de datos fue hecha a través de un google sheets donde se detall
 Adjunto a continuación la base de datos utilizada. 
 https://docs.google.com/spreadsheets/d/15JNfwrGzDpX2DurKJVqKCe779H8G22BTd5WKu2_GOYI/edit?usp=sharing
 
-Luego de descargar el exce, a través de Flourish hice la presentación final. 
+Luego de descargar el excel, a través de Flourish hice la presentación final. 
 https://victoriavallejo0.github.io/infovis/datospersonales.html
